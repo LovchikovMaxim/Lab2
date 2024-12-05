@@ -1,0 +1,10 @@
+/target/
+.idea/
+
+#Eclipse files
+.classpath
+.project
+
+# OS generated files
+.DS_Store
+Thumbs.db
